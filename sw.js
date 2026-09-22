@@ -1,4 +1,4 @@
-const CACHE_NAME = 'chooser-cache-v2'; // ← incrémenté
+const CACHE_NAME = 'chooser-cache-v3'; // ← incrémenté
 const ASSETS = [
   './',
   './index.html',
